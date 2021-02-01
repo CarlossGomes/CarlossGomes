@@ -14,8 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Welcome!
+## I'm Carlos Gomes! Let me present a little about myself
+
+:man_technologist: Java | Spring Boot | Angular | SQL
+
+:heart: Lover of Innovation and Technology 
 
 
+## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CarlossGomes)](https://github.com/CarlossGomes)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-gomes-b94bb6188/)](https://www.linkedin.com/in/carlos-gomes-b94bb6188/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5516997866353&text=Hello!)](https://api.whatsapp.com/send?phone=5516997866353&text=Hello!)
