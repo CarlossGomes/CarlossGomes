@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CarlossGomes)](https://github.com/CarlossGomes)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-gomes-b94bb6188/)](https://www.linkedin.com/in/carlos-gomes-b94bb6188/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5516997866353&text=Hello!)](https://api.whatsapp.com/send?phone=5516997866353&text=Hello!)
-[![Microsoft_Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:carlosdaniel_ag@hotmail.com)](mailto:carlosdaniel_ag@hotmail.com)
+[![email Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&&link=mailto:carlosdaniel_ag@hotmail.com)](mailto:carlosdaniel_ag@hotmail.com)
 
