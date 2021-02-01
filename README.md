@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Welcome!
-## I'm Carlos Gomes! Let me present a little about myself
+## I'm Carlos Gomes! Let me present a little about myself 👨 😄
 
 :man_technologist: Java | Spring Boot | Angular | SQL
 
