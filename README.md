@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5516997866353&text=Hello!)](https://api.whatsapp.com/send?phone=5516997866353&text=Hello!)
 [![email Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&&link=mailto:carlosdaniel_ag@hotmail.com)](mailto:carlosdaniel_ag@hotmail.com)
 
+
+- Thanks for visiting
+
