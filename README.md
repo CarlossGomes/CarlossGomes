@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 :man_technologist: Java | Spring Boot | Angular | SQL
 
-:heart: Lover of Innovation and Technology 
+:heart: Lover of Technology and Innovation   
 
 
 ## About me 
