@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 [![email Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&&link=mailto:carlosdaniel_ag@hotmail.com)](mailto:carlosdaniel_ag@hotmail.com)
 
 
-- Thanks for visiting
+- Thanks for visiting.
 
