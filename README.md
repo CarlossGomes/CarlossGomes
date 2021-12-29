@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Welcome!
 ## I'm Carlos Gomes! Let me present a little about myself 😄
 
-:man_technologist: Java | Spring Boot | Angular | SQL | JSF | ReactNative
+:man_technologist: Java | Spring Boot | Angular | SQL | ReactNative
 
 :heart: Lover of Technology and Innovation   
 
